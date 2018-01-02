@@ -12,7 +12,7 @@ http://185.102.165.10/static/kyivstar/content/LIVE/ch0137/Stream(01)/index.m3u8
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="2103" tvg-logo="http://epg.it999.ru/img/2103.png",ICTV
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="" tvg-logo="http://epg.it999.ru/img/.png",УКРАИНА
+#EXTINF:0 group-title="Ukrainian" tvg-id="2180" tvg-logo="http://epg.it999.ru/img/2180.png",Україна
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0070/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="" tvg-logo="http://epg.it999.ru/img/.png",2+2
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0040/Stream(01)/index.m3u8
