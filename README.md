@@ -3,12 +3,12 @@ Playlist IPTV chanels for home STB.
 
 Useful links:
 - IPTV List 
-https://github.com/slavsky/m3u
+> https://github.com/slavsky/m3u
 
 - EPG & Picons 
 
-      https://github.com/edemtv/edemtv.github.io
+> https://github.com/edemtv/edemtv.github.io
 
-      http://epg.it999.ru/edem.xml.gz
+> http://epg.it999.ru/edem.xml.gz
 
-      http://epg.it999.ru/edem_epg_ico.m3u8
+> http://epg.it999.ru/edem_epg_ico.m3u8
