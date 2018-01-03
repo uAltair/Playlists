@@ -7,8 +7,6 @@
 [link][http://getsapp.ru/IPTV/Auto_IPTV.m3u ]
 [name][FreeSlyNet] 
 [link][http://iptv.slynet.tv/FreeSlyNet.m3u ]
-[name][PeersTV] 
-[link][http://iptv.slynet.tv/PeerstvSlyNet.m3u ]
 [name][ХХХ] 
 [link][http://iptv.slynet.tv/AdultsSlyNet.m3u]
 [name][Slavsky] 
@@ -18,4 +16,4 @@
 [codestatus=1]
 
 ====3 [active code data]===============================
-[code][044579159894]
+[code][144579159894]
