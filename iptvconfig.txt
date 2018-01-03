@@ -23,7 +23,7 @@
 [link][http://iptv.slynet.tv/AdultsSlyNet.m3u]
 
 ===2 [active code function]===0:close; 1:open===
-[codestatus=1]
+[codestatus=0]
 
 ====3 [active code data]===============================
 [code][891363258459]
