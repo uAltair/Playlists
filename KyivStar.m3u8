@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz" url-epg="https://iptvx.one/epg/epg.xml.gz" tvg-shift=0 refresh="3600" 
+#EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz" url-epg="https://iptvx.one/epg/epg.xml.gz" tvg-shift="" refresh="3600" 
 #EXTINF:0 group-title="Ukrainian" tvg-id="ua-pershy" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="1plus1" tvg-logo="http://epg.it999.ru/img/2194.png",1+1 HD
