@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 #EXTINF:0 group-title="Ukrainian" tvg-id="2147" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="2194" tvg-logo="http://epg.it999.ru/img/2194.png",1+1 HD
@@ -151,7 +151,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0082/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="" tvg-logo="",Земля
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id="" tvg-logo="",Епоха
+#EXTINF:0 group-title="Adventure" tvg-id="epoque" tvg-logo="",Епоха
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0044/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="" tvg-logo="",Караван ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0061/Stream(01)/index.m3u8
