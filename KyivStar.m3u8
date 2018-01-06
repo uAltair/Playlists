@@ -149,7 +149,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0082/Stream(01)/index.m3u8
 #EXTINF:0 group-title="English" tvg-id="2155" tvg-logo="http://epg.it999.ru/img/2155.png",English Club TV HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id=""terra"" tvg-logo="",Земля
+#EXTINF:0 group-title="Adventure" tvg-id="terra" tvg-logo="",Земля
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="epoque" tvg-logo="",Епоха
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0044/Stream(01)/index.m3u8
