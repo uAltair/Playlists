@@ -1,7 +1,7 @@
 #EXTM3U  url-tvg=https://iptvx.one/epg/epg.xml.gz url-epg=https://iptvx.one/epg/epg.xml.gz 
-#EXTINF:0 group-title="Ukrainian" tvg-id="ua-pershy-trk-era" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
+#EXTINF:0 group-title="Ukrainian" tvg-id="ua-pershy-ukraine" tvg-name="UA:Перший" tvg-shift="" radio="" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="1plus1" tvg-logo="http://epg.it999.ru/img/2194.png" groups="Все каналы|Разное",1+1 HD
+#EXTINF:0 group-title="Ukrainian" tvg-id="1plus1" tvg-logo="http://epg.it999.ru/img/2194.png",1+1 HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
