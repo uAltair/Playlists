@@ -125,7 +125,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0028/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="nickelodeon-hd" tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="nickelodeon-cis" tvg-logo="http://epg.it999.ru/img/567.png",Nickelodeon
+#EXTINF:0 group-title="Ukrainian" tvg-id="nickelodeon-ru" tvg-logo="http://epg.it999.ru/img/567.png",Nickelodeon
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0045/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="nick-jr" tvg-logo="http://epg.it999.ru/img/917.png",Nick Jr
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0002/Stream(01)/index.m3u8
