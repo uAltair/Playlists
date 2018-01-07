@@ -165,11 +165,11 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="2098" tvg-logo="http://epg.it999.ru/img/2098.png",Мега
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
+#EXTINF:0 group-title="Adventure" tvg-id="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel 1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" channel id="discovery-east" tvg-name="discovery-east" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
+#EXTINF:0 group-title="Adventure" channel id="discovery-east" tvg-name="discovery-east" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel 2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-name="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
+#EXTINF:0 group-title="Adventure" tvg-name="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel3
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png",Discovery Science
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0110/Stream(01)/index.m3u8
