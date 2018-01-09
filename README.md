@@ -1,10 +1,15 @@
 # Playlists
 Playlist IPTV chanels for home STB.
 
-Useful links:
-- IPTV List 
-> https://github.com/slavsky/m3u
+Shorted URL:
 
+>https://goo.gl/up9gKE (ipconfig.txt)
+
+>https://goo.gl/ddmdmx (KyivStar.m3u)
+
+>https://iptvx.one/epg/epg.xml.gz (EPG)
+
+Useful links:
 - EPG & Picons 
 
 > https://github.com/edemtv/edemtv.github.io
@@ -12,8 +17,6 @@ Useful links:
 > http://epg.it999.ru/edem.xml.gz
 
 > http://epg.it999.ru/edem_epg_ico.m3u8
-
-- EPG
 
 >https://iptvx.one/epg/epg.xml.gz
 
@@ -24,9 +27,3 @@ Useful links:
 >http://www.kinokrug.com/tv-programm/tv-kinokrug-xml.gz
 
 >http://programtv.ru/xmltv.xml.gz
-
-Shorted URL:
-
->https://goo.gl/up9gKE (ipconfig.txt)
-
->https://goo.gl/Xvukrv (KyivStar.m3u)
