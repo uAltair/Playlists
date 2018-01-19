@@ -1,6 +1,6 @@
 ===1 [iptv list]===
-[name][Київстар] 
-[link][https://raw.githubusercontent.com/uAltair/Playlists/master/KyivStar.m3u ]
+[name][KS] 
+[link][https://raw.githubusercontent.com/uAltair/Playlists/master/KS.m3u ]
 [name][Lanet] 
 [link][http://www.lanet.tv/playlist.m3u ]
 [name][GetsApp] 
