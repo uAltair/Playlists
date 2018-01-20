@@ -3,7 +3,7 @@
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="1plus1" tvg-logo="http://epg.it999.ru/img/2194.png",1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер
+#EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер*
 https://185-102-165-10.vidnt.com/static/kyivstar/content/LIVE/ch0019_dash/manifest.mpd
 #EXTINF:0 group-title="Ukrainian" tvg-id="stb-ua" tvg-logo="http://epg.it999.ru/img/2097.png",СТБ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0137/Stream(01)/index.m3u8
