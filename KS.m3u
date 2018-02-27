@@ -3,26 +3,8 @@
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="1plus1" tvg-logo="http://epg.it999.ru/img/2194.png",1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="stb-ua" tvg-logo="http://epg.it999.ru/img/2097.png",СТБ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0137/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="novy-kanal-ua" tvg-logo="http://epg.it999.ru/img/2104.png",Новий канал
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="ictv-ua" tvg-logo="http://epg.it999.ru/img/2103.png",ICTV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="ukraina-hd" tvg-logo="http://epg.it999.ru/img/2180.png",Україна
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0070/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="2plus2" tvg-logo="http://epg.it999.ru/img/2195.png",2+2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0040/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="ntn-ua" tvg-logo="http://epg.it999.ru/img/2105.png",НТН
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0020/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="enter-film" tvg-logo="http://epg.it999.ru/img/2102.png",Enter-фільм
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0022/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="k1-ua" tvg-logo="http://epg.it999.ru/img/2100.png",К1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0024/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="k2-ua" tvg-logo="http://epg.it999.ru/img/2099.png",К2
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0025/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="pershy-zaxidny" tvg-logo="http://epg.it999.ru/img/2088.png",Перший Захiдний
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0090/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="zik-ua" tvg-logo="http://epg.it999.ru/img/2206.png",ZIK
@@ -59,20 +41,14 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="indigo-ua" tvg-logo="http://epg.it999.ru/img/2178.png",Індиго
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0016/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="qtv" tvg-logo="http://epg.it999.ru/img/2080.png",ОЦЕ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0011/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="tet-ua" tvg-logo="http://epg.it999.ru/img/2208.png",ТЕТ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0039/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="nlo-tv-ua" tvg-logo="http://epg.it999.ru/img/2179.png",НЛО TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0071/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="kvartal-tv" tvg-logo="http://epg.it999.ru/img/2101.png",Квартал ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0037/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="pravdatyt" tvg-logo="http://epg.it999.ru/img/2117.png",Правда Тут
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0081/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="sonce-ua" tvg-logo="http://epg.it999.ru/img/2210.png",Сонце
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0049/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="zoom-ua" tvg-logo="http://epg.it999.ru/img/2201.png",ZOOM
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0027/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="bigudi" tvg-logo="http://epg.it999.ru/img/2197.png",Бiгудi
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0108/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="bolt" tvg-logo="http://epg.it999.ru/img/2144.png",BOLT
@@ -109,18 +85,12 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0060/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0048/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="o-tv" tvg-logo="http://epg.it999.ru/img/2163.png",O-TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0033/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Music" tvg-id="m1-ua" tvg-logo="http://epg.it999.ru/img/2082.png",M1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0013/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Music" tvg-id="m2-ua" tvg-logo="http://epg.it999.ru/img/2083.png",M2
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0012/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="musicbox-ua-hd" tvg-logo="http://epg.it999.ru/img/2225.png",Music Box UA
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0132/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="mtv-live-hd" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Live
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0078/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="eu-music-hd" tvg-logo="http://epg.it999.ru/img/2094.png",EU Music
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0065/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Kids" tvg-id="pixel" tvg-logo="http://epg.it999.ru/img/2107.png",Пiксель ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0028/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="maliatko-tv" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0043/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="plusplus" tvg-logo="http://epg.it999.ru/img/2202.png",ПлюсПлюс
@@ -147,14 +117,10 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0044/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0061/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="dacha-hd" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458307580372643.png&div=1",Дача
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id="fauna" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461869017736433.jpg&div=1",Фауна
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0001/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="trofey-hd" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458316728891591.jpg&div=1",Трофей
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="nauka" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458311367238491.png&div=1",Наука
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id="mega-ua" tvg-logo="http://epg.it999.ru/img/2098.png",Мега
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel CE
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-science-hd" tvg-logo="http://epg.it999.ru/img/409.png",Discovery Science
@@ -167,8 +133,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0102/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0140/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.it999.ru/img/765.png",Viasat Nature/History HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Adventure" tvg-id="outdoor-channel-hd" tvg-logo="http://epg.it999.ru/img/322.png",Outdoor Channel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0046/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="travel-channel-hd" tvg-logo="http://epg.it999.ru/img/613.png",Travel Channel
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="fine-living-hd" tvg-logo="http://epg.it999.ru/img/393.png",Fine Living
@@ -195,20 +159,12 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0091/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="tv1000-action" tvg-logo="http://epg.it999.ru/img/125.png",TV 1000 Action
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0092/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Cinema" tvg-id="sony-tv-hd" tvg-logo="http://epg.it999.ru/img/311.png",Sony Channel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0057/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Cinema" tvg-id="sony-scifi" tvg-logo="http://epg.it999.ru/img/516.png",Sony Sci-Fi
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0075/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Cinema" tvg-id="sony-turbo" tvg-logo="http://epg.it999.ru/img/935.png",Sony Turbo
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0058/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="star-cinema" tvg-logo="http://epg.it999.ru/img/2145.png",Star Cinema
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0119/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="star-family" tvg-logo="http://epg.it999.ru/img/2153.png",Star Family
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0118/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="evrokino" tvg-logo="http://epg.it999.ru/img/352.png",Еврокино
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0076/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Cinema" tvg-id="tv-xii" tvg-logo="http://epg.it999.ru/img/309.png",TV XXI
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Fashion" tvg-id="playboy-tv-uk-ua" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0114/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Fashion" tvg-id="fashion-tv-hd" tvg-logo="http://epg.it999.ru/img/2244.png",Fashiontv HD
