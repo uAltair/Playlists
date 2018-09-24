@@ -1,12 +1,10 @@
 ===1 [iptv list]===
 [name][KS] 
 [link][https://raw.githubusercontent.com/uAltair/Playlists/master/KS.m3u ]
-[name][Lanet] 
-[link][http://www.lanet.tv/playlist.m3u ]
 [name][GetsApp] 
 [link][http://getsapp.ru/IPTV/Auto_IPTV.m3u ]
 [name][FreeSlyNet] 
-[link][http://iptv.slynet.tv/FreeSlyNet.m3u ]
+[link][http://ellswy.glvobqhw.clwy.ru4.gsr.awhoer.net/FreeBestTV.m3u ]
 [name][Adults] 
 [link][http://iptv.slynet.tv/AdultsSlyNet.m3u]
 [name][Slavsky] 
