@@ -5,7 +5,7 @@ Shorted URL:
 
 >https://goo.gl/up9gKE (ipconfig.txt)
 
->https://goo.gl/ddmdmx (KyivStar.m3u)
+>https://goo.gl/5USmab (KyivStar.m3u)
 
 >https://iptvx.one/epg/epg.xml.gz (EPG)
 
