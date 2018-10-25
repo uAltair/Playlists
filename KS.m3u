@@ -35,10 +35,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0035/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0036/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="pervy-krymsky" tvg-logo="http://epg.it999.ru/img/2148.png",UA:Крим
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="kultura-ua" tvg-logo="http://epg.it999.ru/img/2110.png",UA:Культура
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="indigo-ua" tvg-logo="http://epg.it999.ru/img/2178.png",Індиго
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0016/Stream(01)/index.m3u8
+#EXTINF:0 group-title="Ukrainian" tvg-id="bloomberg" tvg-logo="http://epg.it999.ru/img/2110.png",Bloomberg
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="tet-ua" tvg-logo="http://epg.it999.ru/img/2208.png",ТЕТ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0039/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="kvartal-tv" tvg-logo="http://epg.it999.ru/img/2101.png",Квартал ТВ
@@ -92,7 +90,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0065/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="maliatko-tv" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0043/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="plusplus" tvg-logo="http://epg.it999.ru/img/2202.png",ПлюсПлюс
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="nickelodeon-hd" tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="nickelodeon-ru" tvg-logo="http://epg.it999.ru/img/567.png",Nickelodeon ru
