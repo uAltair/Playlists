@@ -1,6 +1,8 @@
 #EXTM3U  url-tvg=https://iptvx.one/epg/epg.xml.gz url-epg=https://iptvx.one/epg/epg.xml.gz 
 #EXTINF:0 group-title="Ukrainian" tvg-id="ua-pershy-ukraine" tvg-name="UA:Перший" tvg-shift="" radio="" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
+#EXTINF:0,1+1 
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0097/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="2plus2" tvg-logo="http://epg.it999.ru/img/2195.png",2+2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0040/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="pershy-zaxidny" tvg-logo="http://epg.it999.ru/img/2088.png",Перший Захiдний
@@ -117,6 +119,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="nauka" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458311367238491.png&div=1",Наука
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
+#EXTINF:0,Spike 
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel CE
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-science-hd" tvg-logo="http://epg.it999.ru/img/409.png",Discovery Science
@@ -175,3 +179,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0084/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер*
 https://185-102-165-10.vidnt.com/static/kyivstar/content/LIVE/ch0019_dash/manifest.mpd
+#EXTINF:0,+18 Трансляция с 00.00-04.00
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0139/Stream(01)/index.m3u8
+#EXTINF:0,18+ Трансляция с 00.00-04.00
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0114/Stream(01)/index.m3u8
