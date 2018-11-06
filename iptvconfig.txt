@@ -1,6 +1,8 @@
 ===1 [iptv list]===
 [name][KS] 
 [link][https://raw.githubusercontent.com/uAltair/Playlists/master/KS.m3u ]
+[name][Blue Crabs] 
+[link][http://bluecrabstv.do.am/Free.m3u ]
 [name][GetsApp] 
 [link][http://getsapp.ru/IPTV/Auto_IPTV.m3u ]
 [name][FreeSlyNet] 
