@@ -119,8 +119,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="nauka" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458311367238491.png&div=1",Наука
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
-#EXTINF:0,Spike 
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-channel-ce" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel CE
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="discovery-science-hd" tvg-logo="http://epg.it999.ru/img/409.png",Discovery Science
@@ -145,6 +143,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0126/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0103/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="paramount-comedy-ua" tvg-logo="http://epg.it999.ru/img/920.png",Paramount Comedy UA
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0073/Stream(01)/index.m3u8
+#EXTINF:0,Spike 
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="tv1000-comedy-hd" tvg-logo="http://epg.it999.ru/img/1011.png",VIP Comedy
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0124/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Cinema" tvg-id="tv1000-megahit-hd" tvg-logo="http://epg.it999.ru/img/1012.png",VIP Megahit
