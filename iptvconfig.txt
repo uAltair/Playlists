@@ -1,4 +1,6 @@
 ===1 [iptv list]===
+[name][USA] 
+[link][https://raw.githubusercontent.com/uAltair/Playlists/master/usa.m3u ]
 [name][KS] 
 [link][https://raw.githubusercontent.com/uAltair/Playlists/master/KS.m3u ]
 [name][Mnogotv] 
