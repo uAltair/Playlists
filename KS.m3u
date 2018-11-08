@@ -183,7 +183,6 @@ https://185-102-165-10.vidnt.com/static/kyivstar/content/LIVE/ch0019_dash/manife
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0139/Stream(01)/index.m3u8
 #EXTINF:0,18+ Трансляция с 00.00-04.00
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0114/Stream(01)/index.m3u8
-# Playlist created by SMPlayer 18.9.0 (ревизия 9113) 
 #EXTINF:2.53493,NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 #EXTINF:1.06811,Hallmark Channel
@@ -204,4 +203,3 @@ http://23.237.22.82:8086/udp/127.0.0.1:56077
 http://23.237.22.82:8086/udp/127.0.0.1:56079
 #EXTINF:1.0745,WLNY
 http://23.237.22.82:8086/udp/127.0.0.1:56147
-
