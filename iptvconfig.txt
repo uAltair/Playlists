@@ -1,7 +1,8 @@
 ===1 [iptv list]===
 [name][KS] 
 [link][https://raw.githubusercontent.com/uAltair/Playlists/master/KS.m3u ]
-
+[name][Mnogotv] 
+[link][http://mnogo-tv.com/pdatv/iptvmnogotv.m3u ]
 
 ===2 [active code function]===0:close; 1:open===
 [codestatus=1]
