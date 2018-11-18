@@ -2,10 +2,20 @@
 # Playlist created by SMPlayer 18.9.0 (ревизия 9113)
 #EXTINF:1.06307,HBO HD
 http://212.8.253.87:8080/HBO/index.m3u8
-#EXTINF:0.998077,CNN LIVE FHD
-https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:1.41233,CINEMA (CN)
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:1.26937,Fox Business HD
+https://1329918864.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:1.02434,Fox News
 http://23.237.22.82:8086/udp/127.0.0.1:56077
+#EXTINF:3.36,ABC NEWS HD
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-p.m3u8
+#EXTINF:1.76843,CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:3.084,BLOOMBERG HD
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:1.0745,WLNY
 http://23.237.22.82:8086/udp/127.0.0.1:56147
 #EXTINF:1.80798,MSNBC
