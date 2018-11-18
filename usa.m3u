@@ -6,6 +6,8 @@ http://212.8.253.87:8080/HBO/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:1.41233,CINEMA (CN)
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:5.23857,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:1.26937,Fox Business HD
 https://1329918864.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:1.02434,Fox News
