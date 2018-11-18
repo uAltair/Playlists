@@ -1,37 +1,21 @@
 #EXTM3U
 # Playlist created by SMPlayer 18.9.0 (ревизия 9113)
-#EXTINF:5.2072,CN HD
-http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:1.06307,HBO HD
 http://212.8.253.87:8080/HBO/index.m3u8
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:5.26267,FOX MOVIES
-http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:1.06811,Hallmark Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:1.41233,CINEMA (CN)
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
-#EXTINF:5.23857,Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:1.26937,Fox Business HD
-https://1329918864.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:1.02434,Fox News
 http://23.237.22.82:8086/udp/127.0.0.1:56077
 #EXTINF:1,CNBC HD
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:3.36,ABC NEWS HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-p.m3u8
-#EXTINF:1.76843,CBSN HD
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
-#EXTINF:3.084,BLOOMBERG HD
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:1.0745,WLNY
 http://23.237.22.82:8086/udp/127.0.0.1:56147
 #EXTINF:1.80798,MSNBC
 http://23.237.22.82:8086/udp/127.0.0.1:56079
 #EXTINF:2.53493,NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
-#EXTINF:1.06811,Hallmark Channel
-http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:1.2231,HGTV
 http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:1.63204,FS1
