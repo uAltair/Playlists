@@ -1,13 +1,13 @@
 #EXTM3U
 # Playlist created by SMPlayer 18.9.0 (ревизия 9113)
+#EXTINF:1.02434,Fox News
+http://23.237.22.82:8086/udp/127.0.0.1:56077
 #EXTINF:1.06307,HBO HD
 http://212.8.253.87:8080/HBO/index.m3u8
 #EXTINF:1.06811,Hallmark Channel
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:1.41233,CINEMA (CN)
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
-#EXTINF:1.02434,Fox News
-http://23.237.22.82:8086/udp/127.0.0.1:56077
 #EXTINF:1,CNBC HD
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:1.0745,WLNY
