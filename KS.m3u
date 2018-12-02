@@ -37,8 +37,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0035/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0036/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="pervy-krymsky" tvg-logo="http://epg.it999.ru/img/2148.png",UA:Крим
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="bloomberg" tvg-logo="http://epg.it999.ru/img/2110.png",Bloomberg
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="tet-ua" tvg-logo="http://epg.it999.ru/img/2208.png",ТЕТ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0039/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="kvartal-tv" tvg-logo="http://epg.it999.ru/img/2101.png",Квартал ТВ
@@ -101,12 +99,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0045/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0002/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Kids" tvg-id="lale" tvg-logo="http://epg.it999.ru/img/2086.png",Lale
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0053/Stream(01)/index.m3u8
-#EXTINF:0 group-title="English" tvg-id="france24-en" tvg-logo="http://epg.it999.ru/img/2133.png",France 24
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
-#EXTINF:0 group-title="English" tvg-id="deutsche-welle-eu" tvg-logo="http://epg.it999.ru/img/2232.png",Deutsche Welle
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
-#EXTINF:0 group-title="English" tvg-id="english-club-hd" tvg-logo="http://epg.it999.ru/img/2155.png",English Club TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="terra" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461864043924667.png&div=1",Тера
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Adventure" tvg-id="epoque" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461866774739677.jpg&div=1",Епоха
@@ -175,32 +167,29 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0096/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="xsport-ua" tvg-logo="http://epg.it999.ru/img/2196.png",X-SPORT
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0084/Stream(01)/index.m3u8
-#EXTINF:0 group-title="Ukrainian" tvg-id="inter-ua" tvg-logo="http://epg.it999.ru/img/2106.png",Інтер*
-https://185-102-165-10.vidnt.com/static/kyivstar/content/LIVE/ch0019_dash/manifest.mpd
-# Playlist created by SMPlayer 18.9.0 (ревизия 9113)
-#EXTINF:1.02434,Fox News
-http://23.237.22.82:8086/udp/127.0.0.1:56077
-#EXTINF:1.06811,Hallmark Channel
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:1.41233,CINEMA (CN)
-http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
-#EXTINF:1,CNBC HD
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:1.0745,WLNY
-http://23.237.22.82:8086/udp/127.0.0.1:56147
-#EXTINF:1.80798,MSNBC
-http://23.237.22.82:8086/udp/127.0.0.1:56079
-#EXTINF:2.53493,NBCSN
-http://23.237.22.82:8086/udp/127.0.0.1:56016
-#EXTINF:1.2231,HGTV
-http://23.237.22.82:8086/udp/127.0.0.1:56069
-#EXTINF:1.63204,FS1
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:1.5858,FS2 HD
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:1.92725,NFL Network
-http://23.237.22.82:8086/udp/127.0.0.1:56050
-#EXTINF:1.15726,NBA TV
-http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:0 group-title="English" tvg-id="france24-en" tvg-logo="http://epg.it999.ru/img/2133.png",France 24
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
+#EXTINF:0 group-title="English" tvg-id="deutsche-welle-eu" tvg-logo="http://epg.it999.ru/img/2232.png",Deutsche Welle
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
+#EXTINF:0 group-title="English" tvg-id="english-club-hd" tvg-logo="http://epg.it999.ru/img/2155.png",English Club TV
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
+#EXTINF:0 group-title="Ukrainian" tvg-id="bloomberg" tvg-logo="http://epg.it999.ru/img/2110.png",Bloomberg
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
+#EXTINF:1.33463,CNN HD
+https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+#EXTINF:1.46214,FOX NEWS HD
+https://1828529515.rsc.cdn77.org/LS-ATL-54548-4/tracks-v2a1/mono.m3u8
+#EXTINF:2.13547,CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:1.22064,MSNBC HD
+https://1463561170.rsc.cdn77.org/LS-PRG-54548-3/tracks-v2a1/rewind-12000.m3u8
+#EXTINF:1.89636,HLN HD
+https://1828529515.rsc.cdn77.org/LS-ATL-54548-7/tracks-v2a1/mono.m3u8
+#EXTINF:5.08517,FOX BUSINESS HD
+https://1329918864.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:1.453,ABC NEWS HD
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-p.m3u8
+#EXTINF:4.03243,BLOOMBERG HD
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 
