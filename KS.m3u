@@ -175,21 +175,3 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Ukrainian" tvg-id="bloomberg" tvg-logo="http://epg.it999.ru/img/2110.png",Bloomberg
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
-#EXTINF:1.33463,CNN HD
-https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-#EXTINF:1.46214,FOX NEWS HD
-https://1828529515.rsc.cdn77.org/LS-ATL-54548-4/tracks-v2a1/mono.m3u8
-#EXTINF:2.13547,CBSN HD
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
-#EXTINF:1.22064,MSNBC HD
-https://1463561170.rsc.cdn77.org/LS-PRG-54548-3/tracks-v2a1/rewind-12000.m3u8
-#EXTINF:1.89636,HLN HD
-https://1828529515.rsc.cdn77.org/LS-ATL-54548-7/tracks-v2a1/mono.m3u8
-#EXTINF:5.08517,FOX BUSINESS HD
-https://1329918864.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:1.453,ABC NEWS HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-p.m3u8
-#EXTINF:4.03243,BLOOMBERG HD
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
-
