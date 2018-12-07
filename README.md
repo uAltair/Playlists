@@ -7,7 +7,7 @@ Shorted URL:
 
 >https://goo.gl/5USmab (KyivStar.m3u)
 
->https://iptvx.one/epg/epg.xml.gz (EPG)
+>https://goo.gl/wnCHH5 https://iptvx.one/epg/epg.xml.gz (EPG)
 
 Useful links:
 - EPG & Picons 
